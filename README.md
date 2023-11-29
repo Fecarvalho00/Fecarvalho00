@@ -1,29 +1,21 @@
-### Olá, eu sou Felipe Carvalho 👋
-Cientista de dados graduado em matemática, atualmente estudante de mestrado em ciência da computação.
+<h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
+<h3 align="center">Currently Msc student in computer science, Mathematician and data scientist.</h3>
 
-<div>
-<a href="https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/" targer-"blank_"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target-"_blank"> 
-</a>
-</div>
+- 📫 How to reach me **felipedysc@gmail.com**
 
-## Hard skills
-<div>
-<a href="https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/" targer-"blank_"><img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target-"_blank"> </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/" height="30" width="40" /></a>
+</p>
 
-SQL:
-<div>
-<a href="https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/" targer-"blank_"><img src = "	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target-"_blank"> </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-NoSQL:
-<div>
-<a href="https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/" targer-"blank_"><img src = "	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-" target-"_blank"> </a>
-</div>
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  </p>
 
 
+<h3 align="left">SQL & NoSQL:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
-## Projetos de ciência de dados
 
-
+### Follow my projects
