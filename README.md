@@ -10,15 +10,11 @@
 
 <h3 align="left">Hard Skills:</h3>
 <p align="left">
-Python(Scikit-learn, Tensorflow, pandas, numpy)
+Python(Scikit-learn, Tensorflow, pandas, numpy) to solve Regression, Classification and Clustering problems.
 </p>
 
 Dataviz: Matplotlib, Seaborn, Plotly & PowerBI
 
-<h3 align="left">Banco de Dados:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  PostgreeSQL
-  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> MongoDB </p>
-
+<h3 align="left">Banco de Dados(SQL & NoSQL):</h3> PostgreeSQL, MongoDB
 
 ### Follow my projects
