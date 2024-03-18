@@ -17,4 +17,4 @@ Dataviz: Matplotlib, Seaborn, Plotly & PowerBI
 
 <h3 align="left">Banco de Dados(SQL & NoSQL):</h3> PostgreeSQL, MongoDB
 
-### Follow my projects
+### Acompanhe meus projetos!
