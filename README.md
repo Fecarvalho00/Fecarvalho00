@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Felipe Carvalho</h1>
-<h3 align="center">Atualmente, Matemático, cientista de dados e estudante de mestrado em ciência da computação .</h3>
+<h3 align="center"> Matemático e cientista de dados.</h3>
 
 - 📫 email: **felipedysc@gmail.com**
 
